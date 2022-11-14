@@ -2,4 +2,4 @@
 
 Dumping ground for python+run data
 
-See [run_data.ipynb](run_data.ipynb)
+See [race_stats.ipynb](race_stats.ipynb)
